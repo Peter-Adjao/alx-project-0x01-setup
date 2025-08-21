@@ -73,7 +73,7 @@ alx-project-0x01/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/alx-project-0x01-setup.git
+   git clone https://github.com/peter-adjao/alx-project-0x01-setup.git
    cd alx-project-0x01
 Install Dependencies
 
